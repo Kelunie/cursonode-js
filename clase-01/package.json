@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kelunie/Curso-Node-js"
+    "url": "git+https://github.com/Kelunie/cursonode-js"
   },
   "keywords": [
     "curso",
@@ -19,9 +19,9 @@
   "author": "midudev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kelunie/Curso-Node-js/issues"
+    "url": "https://github.com/Kelunie/cursonode-js/issues"
   },
-  "homepage": "https://github.com/Kelunie/Curso-Node-js#readme",
+  "homepage": "https://github.com/Kelunie/cursonode-js#readme",
   "dependencies": {
     "picocolors": "1.0.0"
   },
